@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataModelLayer\DataModelLayer.csproj" />
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interface\Delete\Task\" />
+    <Folder Include="Interface\Delete\Setup\" />
+    <Folder Include="Interface\Insert\Task\" />
+    <Folder Include="Interface\Insert\Setup\" />
+    <Folder Include="Interface\Select\Task\" />
+    <Folder Include="Interface\Select\Setup\" />
+    <Folder Include="Interface\Update\Task\" />
+    <Folder Include="Interface\Update\Setup\" />
+  </ItemGroup>
+
+</Project>

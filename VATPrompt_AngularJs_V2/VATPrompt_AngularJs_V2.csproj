@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\Scripts\ngServices\loginService.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngularJS.Core" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Route" Version="1.8.2" />
+    <PackageReference Include="bootstrap" Version="5.3.3" />
+    <PackageReference Include="Bootstrap.Datepicker" Version="1.8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\angular-1.8.2\i18n\ngLocale\" />
+    <Folder Include="wwwroot\Scripts\ngDirectives\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Scripts\myApp.js" />
+    <None Include="wwwroot\Scripts\ngControllers\loginController.js" />
+    <None Include="wwwroot\Scripts\ngServices\userService.js" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "angular.js@1.8.3",
+      "destination": "wwwroot/Scripts/angular.js/"
+    },
+    {
+      "library": "bootstrap-datepicker@1.10.0",
+      "destination": "wwwroot/Scripts/bootstrap-datepicker/"
+    },
+    {
+      "library": "bootstrap@5.3.3",
+      "destination": "wwwroot/Scripts/bootstrap/"
+    }
+  ]
+}

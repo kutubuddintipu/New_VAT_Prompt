@@ -1,0 +1,9 @@
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.csproj.AssemblyReference.cache
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.AssemblyInfoInputs.cache
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.AssemblyInfo.cs
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.csproj.CoreCompileInputs.cache
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.MvcApplicationPartsAssemblyInfo.cs
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.MvcApplicationPartsAssemblyInfo.cache
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.RazorAssemblyInfo.cache
+D:\New Development\VAT_Prompt_V2\VAT_Prompt_V2\obj\Debug\net8.0\VAT_PromptAPI_V2.RazorAssemblyInfo.cs

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZJgNEAqDe0=",
+  "success": true,
+  "projectFilePath": "D:\\New Development\\VAT_Prompt_V2\\VATPrompt_AngularJs_V2\\VATPrompt_AngularJs_V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\angularjs.core\\1.8.2\\angularjs.core.1.8.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\angularjs.route\\1.8.2\\angularjs.route.1.8.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bootstrap.datepicker\\1.8.0.1\\bootstrap.datepicker.1.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

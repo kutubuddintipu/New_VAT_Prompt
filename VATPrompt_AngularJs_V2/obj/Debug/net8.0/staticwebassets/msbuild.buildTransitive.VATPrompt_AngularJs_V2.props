@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VATPrompt_AngularJs_V2.props" />
+</Project>

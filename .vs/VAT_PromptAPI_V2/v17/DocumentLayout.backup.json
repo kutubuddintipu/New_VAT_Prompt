@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New Development\\VAT_Prompt_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_Prompt_V2.csproj|d:\\new development\\vat_prompt_v2\\vat_prompt_v2\\vat_prompt_v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_Prompt_V2.csproj|solutionrelative:vat_prompt_v2\\vat_prompt_v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AFB55A-99ED-47AC-B058-76AF435CABA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new development\\vat_prompt_v2\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77AFB55A-99ED-47AC-B058-76AF435CABA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|d:\\new development\\vat_prompt_v2\\vat_prompt_v2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|solutionrelative:vat_prompt_v2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|d:\\new development\\vat_prompt_v2\\vat_prompt_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|solutionrelative:vat_prompt_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}|EntityLayer\\EntityLayer.csproj|d:\\new development\\vat_prompt_v2\\entitylayer\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AFB55A-99ED-47AC-B058-76AF435CABA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new development\\vat_prompt_v2\\businesslogiclayer\\select\\security\\userloginindentityinfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AFB55A-99ED-47AC-B058-76AF435CABA6}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\select\\security\\userloginindentityinfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A992C062-2BF7-4D28-9A35-33B769DBEF91}|DataAccessLayer\\DataAccessLayer.csproj|d:\\new development\\vat_prompt_v2\\dataaccesslayer\\dataaccess\\select\\security\\userloginindentityinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A992C062-2BF7-4D28-9A35-33B769DBEF91}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccess\\select\\security\\userloginindentityinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A992C062-2BF7-4D28-9A35-33B769DBEF91}|DataAccessLayer\\DataAccessLayer.csproj|d:\\new development\\vat_prompt_v2\\dataaccesslayer\\interface\\select\\security\\iuserloginindentityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A992C062-2BF7-4D28-9A35-33B769DBEF91}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interface\\select\\security\\iuserloginindentityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CB56C-5477-454E-8F7F-33C6149C3521}|DataModelLayer\\DataModelLayer.csproj|d:\\new development\\vat_prompt_v2\\datamodellayer\\userlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CB56C-5477-454E-8F7F-33C6149C3521}|DataModelLayer\\DataModelLayer.csproj|solutionrelative:datamodellayer\\userlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}|EntityLayer\\EntityLayer.csproj|d:\\new development\\vat_prompt_v2\\entitylayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|d:\\new development\\vat_prompt_v2\\vat_prompt_v2\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088882FD-53F2-4B73-98B1-2584294ECE7C}|VAT_Prompt_V2\\VAT_PromptAPI_V2.csproj|solutionrelative:vat_prompt_v2\\configuration\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\BusinessLogicLayer.csproj*",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T10:11:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VAT_PromptAPI_V2.csproj",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+              "RelativeDocumentMoniker": "VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+              "RelativeToolTip": "VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T10:08:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\AppDbContext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EntityLayer\\AppDbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:56:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLoginIndentityInfoDAL.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\DataAccess\\Select\\Security\\UserLoginIndentityInfoDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccess\\Select\\Security\\UserLoginIndentityInfoDAL.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\DataAccess\\Select\\Security\\UserLoginIndentityInfoDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccess\\Select\\Security\\UserLoginIndentityInfoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:50:07.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserLoginIndentityInfo.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\Interface\\Select\\Security\\IUserLoginIndentityInfo.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interface\\Select\\Security\\IUserLoginIndentityInfo.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\Interface\\Select\\Security\\IUserLoginIndentityInfo.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interface\\Select\\Security\\IUserLoginIndentityInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:43:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Employee.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\Employee.cs",
+              "RelativeToolTip": "EntityLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:26:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Program.cs",
+              "RelativeDocumentMoniker": "VAT_Prompt_V2\\Program.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Program.cs",
+              "RelativeToolTip": "VAT_Prompt_V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:39:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "VAT_Prompt_V2\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "VAT_Prompt_V2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:33:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginIndentityInfoBLL.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\Select\\Security\\UserLoginIndentityInfoBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Select\\Security\\UserLoginIndentityInfoBLL.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\Select\\Security\\UserLoginIndentityInfoBLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Select\\Security\\UserLoginIndentityInfoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:55:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginInfo.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\DataModelLayer\\UserLoginInfo.cs",
+              "RelativeDocumentMoniker": "DataModelLayer\\UserLoginInfo.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\DataModelLayer\\UserLoginInfo.cs",
+              "RelativeToolTip": "DataModelLayer\\UserLoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:24:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTConfig.cs",
+              "DocumentMoniker": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Configuration\\JWTConfig.cs",
+              "RelativeDocumentMoniker": "VAT_Prompt_V2\\Configuration\\JWTConfig.cs",
+              "ToolTip": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\Configuration\\JWTConfig.cs",
+              "RelativeToolTip": "VAT_Prompt_V2\\Configuration\\JWTConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:33:19.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

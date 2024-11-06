@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "VAT_PromptAPI_V2.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DataModelLayer.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VAT_PromptAPI_V2.Controllers.LoginController",
+    "Method": "SecureEndpoint",
+    "RelativePath": "api/Login/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VAT_Prompt_V2", "VAT_Prompt_V2\VAT_Prompt_V2.csproj", "{088882FD-53F2-4B73-98B1-2584294ECE7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModelLayer", "DataModelLayer\DataModelLayer.csproj", "{576CB56C-5477-454E-8F7F-33C6149C3521}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{77AFB55A-99ED-47AC-B058-76AF435CABA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{A992C062-2BF7-4D28-9A35-33B769DBEF91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VATPrompt_AngularJs_V2", "VATPrompt_AngularJs_V2\VATPrompt_AngularJs_V2.csproj", "{6BC9FA82-8E61-4719-B97D-540AA802BA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088882FD-53F2-4B73-98B1-2584294ECE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088882FD-53F2-4B73-98B1-2584294ECE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088882FD-53F2-4B73-98B1-2584294ECE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088882FD-53F2-4B73-98B1-2584294ECE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576CB56C-5477-454E-8F7F-33C6149C3521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576CB56C-5477-454E-8F7F-33C6149C3521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576CB56C-5477-454E-8F7F-33C6149C3521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576CB56C-5477-454E-8F7F-33C6149C3521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AFB55A-99ED-47AC-B058-76AF435CABA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AFB55A-99ED-47AC-B058-76AF435CABA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AFB55A-99ED-47AC-B058-76AF435CABA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AFB55A-99ED-47AC-B058-76AF435CABA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A992C062-2BF7-4D28-9A35-33B769DBEF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A992C062-2BF7-4D28-9A35-33B769DBEF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A992C062-2BF7-4D28-9A35-33B769DBEF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A992C062-2BF7-4D28-9A35-33B769DBEF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103F350D-D0AD-4FB7-ACDC-3945AE0BA337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC9FA82-8E61-4719-B97D-540AA802BA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC9FA82-8E61-4719-B97D-540AA802BA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC9FA82-8E61-4719-B97D-540AA802BA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC9FA82-8E61-4719-B97D-540AA802BA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437B30D4-78A0-4794-92C1-C93BBF3EA85A}
+	EndGlobalSection
+EndGlobal

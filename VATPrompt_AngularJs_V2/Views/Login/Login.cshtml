@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Login Page</title>
+</head>
+<body ng-app="myApp" ng-controller="loginController">
+    <div class="login_wrapper">
+        <form name="frmLogin" ng-submit="login()">
+            <h1>Login</h1>
+            <input type="text" placeholder="Username" ng-model="account.username" required />
+            <input type="password" placeholder="Password" ng-model="account.password" required />
+            <button type="submit" ng-disabled="frmLogin.$invalid">Login</button>
+            <button type="button" ng-click="clickRefresh()">Cancel</button>
+        </form>
+    </div>
+    <script src="~/angular-1.8.2/angular.min.js"></script>
+    <a href="~/angular-1.8.2/angular.min.js.map">~/angular-1.8.2/angular.min.js.map</a>
+    <script src="~/Scripts/myApp.js"></script>
+    <script src="~/Scripts/ngServices/loginService.js"></script>
+    <script src="~/Scripts/ngControllers/loginController.js"></script>
+</body>
+</html>
