@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VATPrompt_AngularJs_V2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9466d4952ee864aaf4bdc23a640a94439b3180b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VATPrompt_AngularJs_V2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VATPrompt_AngularJs_V2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
