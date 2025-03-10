@@ -753,19 +753,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "E:\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\New Development\\VAT_Prompt_V2\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -780,11 +785,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\New Development\\VAT_Prompt_V2\\DataModelLayer\\DataModelLayer.csproj": {
-              "projectPath": "D:\\New Development\\VAT_Prompt_V2\\DataModelLayer\\DataModelLayer.csproj"
+            "D:\\VATPrompt_Dev\\New_VAT_Prompt\\DataModelLayer\\DataModelLayer.csproj": {
+              "projectPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\DataModelLayer\\DataModelLayer.csproj"
             },
-            "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\New Development\\VAT_Prompt_V2\\EntityLayer\\EntityLayer.csproj"
+            "D:\\VATPrompt_Dev\\New_VAT_Prompt\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -798,7 +803,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -819,7 +825,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9782,19 +9782,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "E:\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+      "projectUniqueName": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
       "projectName": "VAT_Prompt_V2",
-      "projectPath": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
+      "projectPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\VAT_Prompt_V2\\VAT_Prompt_V2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\New Development\\VAT_Prompt_V2\\VAT_Prompt_V2\\obj\\",
+      "outputPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\VAT_Prompt_V2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9809,8 +9814,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "D:\\New Development\\VAT_Prompt_V2\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "D:\\VATPrompt_Dev\\New_VAT_Prompt\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "D:\\VATPrompt_Dev\\New_VAT_Prompt\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             }
           }
         }
@@ -9824,7 +9829,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -9880,7 +9886,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

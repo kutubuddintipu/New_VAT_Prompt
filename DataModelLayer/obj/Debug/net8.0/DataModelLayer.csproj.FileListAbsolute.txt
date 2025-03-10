@@ -1,0 +1,13 @@
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\bin\Debug\net8.0\DataModelLayer.deps.json
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\bin\Debug\net8.0\DataModelLayer.dll
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\bin\Debug\net8.0\DataModelLayer.pdb
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.csproj.AssemblyReference.cache
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.AssemblyInfoInputs.cache
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.AssemblyInfo.cs
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.csproj.CoreCompileInputs.cache
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.sourcelink.json
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.dll
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\refint\DataModelLayer.dll
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\DataModelLayer.pdb
+D:\VATPrompt_Dev\New_VAT_Prompt\DataModelLayer\obj\Debug\net8.0\ref\DataModelLayer.dll

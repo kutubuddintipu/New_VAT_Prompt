@@ -18,3 +18,12 @@
 11/05/2024 5:39:31 PM: Couldn't set integrated security (Parameter 'integrated security')
 11/05/2024 5:39:42 PM: An error occurred while retrieving the user by username.
 11/05/2024 5:39:46 PM: An error occurred during the login process.
+03/10/2025 10:45:14 AM: 3D000: database "KSAPI_Test" does not exist
+03/10/2025 10:45:14 AM: An error occurred while retrieving the user by username.
+03/10/2025 10:45:14 AM: An error occurred during the login process.
+03/10/2025 10:47:14 AM: 3D000: database "KSAPI_Test" does not exist
+03/10/2025 10:47:14 AM: An error occurred while retrieving the user by username.
+03/10/2025 10:47:14 AM: An error occurred during the login process.
+03/10/2025 10:47:29 AM: 3D000: database "KSAPI_Test" does not exist
+03/10/2025 10:47:35 AM: An error occurred while retrieving the user by username.
+03/10/2025 10:47:35 AM: An error occurred during the login process.
